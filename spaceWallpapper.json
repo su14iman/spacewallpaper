@@ -1,0 +1,12 @@
+
+[
+    {
+        "fileName": "1.jpg",
+        "isPrimary": true,
+        "isForLight": true
+    },
+    {
+        "fileName": "2.jpg",
+        "isForDark": true
+    }
+]
